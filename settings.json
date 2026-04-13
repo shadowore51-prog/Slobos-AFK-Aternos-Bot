@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " Schoolsmp-wsYQ.aternos.me",
+    "ip": " Schoolsmp-wsYQ.aternos.me:42797",
     "port": 42797,
     "version": "",
     "try-creative": false
